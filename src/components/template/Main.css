@@ -1,0 +1,84 @@
+.content{
+    background-color: lightgray;
+    
+}
+main{
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.inspirational{
+    display: inline-block;
+    width: 100%;
+    mix-blend-mode:screen;
+    background-color:gray;
+    text-align: center;
+    height: 100px
+}
+
+#principal{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.rounded-image {
+    border-radius: 40px; /* Adjust the value as needed */
+}
+.third,
+.second,
+.first{
+    display: flex;
+    justify-content: center;
+    position: relative; 
+    hanging-punctuation: 900px;
+    
+}
+.radiators3,
+.radiators2,
+.designers,
+.radiators1{
+    display: flex;
+    display: inline-block;
+    margin: 10px;
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+}
+.radiators33{
+    display: flex;
+    display: inline-block;
+    margin: 10px;
+    height: 300px;
+
+}
+.radiators1 img,
+.designers img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+.radiators3 img{
+    width: 100%;
+    height: 100%;
+}
+.radiators33 img{
+    width: 100%;
+    height: 100%;
+}
+
+.radiators2 img,
+p{
+    width: 100%;
+    height: 100%;
+}
+.radiators2Css{
+    color: black;
+    background-color:gray;
+    height: 300px;
+    text-align: center;
+}
+
+

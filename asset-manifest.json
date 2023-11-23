@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/business-kudox/static/css/main.553f0b2c.css",
+    "main.js": "/business-kudox/static/js/main.3149e37d.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/business-kudox/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/business-kudox/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/business-kudox/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/business-kudox/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/business-kudox/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/image2.jpg": "/business-kudox/static/media/image2.3f4db793fce02ae0020d.jpg",
+    "static/media/image.jpg": "/business-kudox/static/media/image.d3ab13d6b0ac365d8c82.jpg",
+    "index.html": "/business-kudox/index.html",
+    "main.553f0b2c.css.map": "/business-kudox/static/css/main.553f0b2c.css.map",
+    "main.3149e37d.js.map": "/business-kudox/static/js/main.3149e37d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.553f0b2c.css",
+    "static/js/main.3149e37d.js"
+  ]
+}
